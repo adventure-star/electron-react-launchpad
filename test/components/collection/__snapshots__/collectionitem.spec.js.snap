@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CollectionItem component Matches/Renders a snapshot 1`] = `
+<li
+  className="collection-item testClass"
+  onClick={undefined}
+>
+  Test collection content
+</li>
+`;

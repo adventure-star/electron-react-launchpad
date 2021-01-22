@@ -1,0 +1,13 @@
+#os:
+#  - osx
+
+language: node_js
+
+node_js:
+  - 7
+
+script: ./script/travis.sh
+
+branches:
+  only:
+  - master

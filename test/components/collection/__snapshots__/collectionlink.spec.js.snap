@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CollectionLink component Matches/Renders a snapshot 1`] = `
+<a
+  className="collection-item testClass"
+  href="testlink"
+  onClick={undefined}
+>
+  Test collection content
+</a>
+`;
