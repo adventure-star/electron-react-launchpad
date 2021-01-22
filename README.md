@@ -37,6 +37,10 @@ $ npm install
 $ npm run start
 ```
 
+``` bash
+
+$ npm install node-sass@latest --save-dev
+
 ## Package & Release
 
 ### Install Dependencies
